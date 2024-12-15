@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A guy making a gang management game.
 twitter_username: AlexMrosk
 github_username: 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
